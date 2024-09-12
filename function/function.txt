@@ -1,0 +1,21 @@
+What is a function
+
++ A block of code. |
+« Used for a specific reason.
+- The function can reuse multiple time.
+
+
+Types of function
+
++ User Defined function.
+« Inbuilt function.
+
+« Simple function
+
+« Returning value function
+
+« Anonymous function
+
+« Parameterize functions
+
+« Variable function
