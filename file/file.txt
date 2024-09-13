@@ -1,0 +1,17 @@
+
+
+Include file in another file
++ Why we need to include files? 
+
+
+function
+
++ include
+
+« Include_once 
+
+« required
+
++ required_once
+
++ Examples for all functions -
