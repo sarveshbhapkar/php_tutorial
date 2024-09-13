@@ -1,0 +1,12 @@
+What is Array
+« Collection of data. |
+~ «Store multiple value in a single variable.
+
+we can save different data of different data Type
+
+
+Types of Array |
+- Indexed arrays |
+- Associative arrays
+- multidimensional arrays |
+

@@ -4,7 +4,6 @@ $str="sarvesh";
 echo strlen($str);
 echo "<br>";
 
-
 var_dump($str);
 echo "<br>";
 
@@ -22,5 +21,6 @@ echo is_int($str);
 echo "<br>";
 
 echo substr($str,2);
+
 
 ?>
