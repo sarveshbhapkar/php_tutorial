@@ -1,0 +1,29 @@
+
+Type of Request
+
+
++ Get Reugest
++ Post request
++ Delete Request
++ Put/Patch request
+
+
++ Get Request
+= Request is visible in the address bar
+= Less secure request N |
+= Mostly used to get data from the server
+
+
+« Post request
+= Request is not visible in the address bar
+= secure 
+=used for create and update operations on server
+
+
+
+Send data with GET request |
+
+« Make HTML file
+« Make PHP file
++ Make input field in HTML file £
+« Receive data in php file
