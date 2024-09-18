@@ -27,3 +27,10 @@ Send data with GET request |
 « Make PHP file
 + Make input field in HTML file £
 « Receive data in php file
+
+
+$_ REQUEST
++ What is $_ REQUEST?
++ Make HTML and PHP files?
++ Make input field in HTML file?
++ Receive data in php file? |
