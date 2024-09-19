@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>form handling with php</title>
+</head>
+<body>
+    
+    <form action="form.php" method="post">
+        <input type="text" name="name" placeholder="enter user name"/>
+        <br/>
+        <br/>
+
+        <input type="text" name="email" placeholder="enter user email"/>
+        <br/>
+        <br/>
+        
+        <input type="password" name="password" placeholder="enter user password"/>
+        <br/>
+        <br/>
+
+        <input type="checkbox" name="skills[]"/><spam>php</spam>
+        <br/>
+        <input type="checkbox" name="skills[]"/><spam>java</spam>
+        <br/>
+        <input type="checkbox" name="skills[]"/><spam>mongo</spam>
+        <br/>
+        <input type="checkbox" name="skills[]"/><spam>react</spam>
+        <br/>
+        <input type="radio" name="gender"/><spam>male</spam>
+        <br/>
+        <input type="radio" name="gender"/><spam>female</spam>
+        <br/>
+
+        <select name="city">
+            <option>select your city</option>
+            <option value="noida">noida</option>
+            <option value="delhi">delhi</option>
+            <option value="mumbai">mumbai</option>
+            <option value="pune">pune</option>
+            <option value="himachal">himachal</option>
+        </select>
+
+
+        <br/>
+        <br/>
+
+        <textarea name="bio"></textarea>
+        <br/>
+        <br/>
+        <button>sign in</button>
+
+    </form>
+</body>
+</html>
