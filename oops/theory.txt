@@ -1,0 +1,58 @@
+What is OOP 
+OOP stands for Object-Oriented programming
++ OOPs is a model of programming.
++ Organizes software design with classes and Object
+
+Why use OOPs |
+
++ Easy code manage
+. better reusability
+« Faster and secure. 
+
+
+
+PHP and OOP
+« PHP supports 2 models for code.
++ 00P and Procerturel.
+« But now, most developers use OOp
+- Even Laravel and PHP other framework
++ Syntax and mostly things are same
++ Many Programming Language support OOP model
+
+
+Class and Object in OOP
++ What is Class? |
+« What is an Object?
+« Real-world example of class and Object.
+« Class and Object works.
+
+
+What is class and Objects
++ Class is a blueprint for creating objects
+  template that defines the variables and methods
+  for a specific type of objects
+
+an object is an instance of class/copy of a class
+we can create multiple objects
+
+
+PHP access modifiers
++ Access Modifier decides where we can access I
+methods and properties.
+
++ Access zone
+
+= Access inside the current class only
+
+» Access everywhere
+
+* Access in inherited class
+
+
+« Type of access Modifiers
+
+« Private
+
+* Public
+
+* Protected
